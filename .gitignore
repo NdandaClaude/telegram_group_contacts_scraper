@@ -1,0 +1,5 @@
+contacts.csv
+.env
+__pycache__/
+*.pyc
+*.pyo
